@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Demo Spinner Test</string>
+    <string-array name="fruitItems">
+        <item>apple</item>
+        <item>banana</item>
+        <item>cherry</item>
+    </string-array>
+
+</resources>
